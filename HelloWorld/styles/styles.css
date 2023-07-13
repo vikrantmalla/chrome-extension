@@ -1,0 +1,11 @@
+body {
+  background-color: #fbeaff;
+}
+
+.popup-container {
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
